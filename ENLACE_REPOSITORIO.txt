@@ -13,6 +13,9 @@ ENLACES A LOS REPOSITORIOS DE CONTROL DE VERSIONES (GIT / GITHUB):
 2. MÓDULO WEB (Node.js + Express + MongoDB + Tailwind CSS):
    https://github.com/MrJullios/style-luna-azul-web.git
 
+3. REPOSITORIO UNIFICADO DE LA EVIDENCIA:
+   https://github.com/StalavoX/style-luna-azul-evidencia
+
 --------------------------------------------------------------------------------
 INSTRUCCIONES DE ENTREGA:
 - Verifique que ambos repositorios cuenten con visibilidad pública en GitHub.
